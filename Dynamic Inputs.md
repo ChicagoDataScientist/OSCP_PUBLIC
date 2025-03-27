@@ -1,0 +1,13 @@
+up: [[main targetsite.com Narrow Recon]]
+#TBHM_template 
+## [[Dynamic Inputs]]
+- ### [[file uploads]]
+	- [[PDF(XML, Doc, ++]]
+	- [[Image Files]]
+- ### [[Interesting]]
+	- [[multi-part forms]]
+	- [[API's]]
+	- [[Parameters referencing a path or URL]]
+	- [[Errors!]]
+- ### [[other dynamic parameters]]
+- ### [[++]]

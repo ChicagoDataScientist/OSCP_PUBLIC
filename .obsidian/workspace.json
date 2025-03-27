@@ -1,0 +1,915 @@
+{
+  "main": {
+    "id": "2e1fd2e999022306",
+    "type": "split",
+    "children": [
+      {
+        "id": "5157030d4a4057ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "257a72ca2b70e59e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Jarvis lite instructions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Jarvis AI/🧠 Memory & Philosophy/Jarvis lite instructions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Jarvis lite instructions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":88},\"to\":{\"line\":0,\"ch\":88}},\"scroll\":9.797062618896181}"
+                },
+                {
+                  "title": "Personality Primer Personal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Jarvis AI/🧠 Memory & Philosophy/Personality Primer Personal.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Personality Primer Personal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Jarvis lite instructions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Jarvis AI/🧠 Memory & Philosophy/Jarvis lite instructions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Jarvis lite instructions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":74},\"to\":{\"line\":0,\"ch\":74}}}"
+                },
+                {
+                  "title": "HackerOne",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"HackerOne.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":26},\"to\":{\"line\":0,\"ch\":26}},\"scroll\":0}"
+                },
+                {
+                  "title": "Bounty Programs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bounty Programs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":11},\"to\":{\"line\":4,\"ch\":11}}}"
+                },
+                {
+                  "title": "DoD",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DoD.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":11},\"to\":{\"line\":0,\"ch\":11}},\"scroll\":0}"
+                },
+                {
+                  "title": "Bounty Programs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bounty Programs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":7},\"to\":{\"line\":23,\"ch\":7}},\"scroll\":10.58000732332479}"
+                },
+                {
+                  "title": "My Reputation Strategy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"My Reputation Strategy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":17},\"to\":{\"line\":0,\"ch\":17}},\"scroll\":0}"
+                },
+                {
+                  "title": "Bounty Programs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bounty Programs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":12},\"to\":{\"line\":21,\"ch\":12}},\"scroll\":8.5785426583669}"
+                },
+                {
+                  "title": "Vulnerability Types to Prioritize",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vulnerability Types to Prioritize.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":10},\"to\":{\"line\":0,\"ch\":10}}}"
+                },
+                {
+                  "title": "Bounty Programs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bounty Programs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":21},\"to\":{\"line\":19,\"ch\":21}}}"
+                },
+                {
+                  "title": "Google bug bounty",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Google bug bounty.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":16},\"to\":{\"line\":0,\"ch\":16}}}"
+                },
+                {
+                  "title": "Bounty Programs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bounty Programs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":14},\"to\":{\"line\":16,\"ch\":14}}}"
+                },
+                {
+                  "title": "Microsoft bug bounty",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Microsoft bug bounty.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}}}"
+                },
+                {
+                  "title": "Bounty Programs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bounty Programs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":18},\"to\":{\"line\":14,\"ch\":18}}}"
+                },
+                {
+                  "title": "Apple bug bounty",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Apple bug bounty.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":10},\"to\":{\"line\":0,\"ch\":10}}}"
+                },
+                {
+                  "title": "Bounty Programs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bounty Programs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":13},\"to\":{\"line\":12,\"ch\":13}}}"
+                },
+                {
+                  "title": "Yes We Hack",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Yes We Hack.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":16},\"to\":{\"line\":0,\"ch\":16}}}"
+                },
+                {
+                  "title": "Bounty Programs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bounty Programs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":14},\"to\":{\"line\":10,\"ch\":14}}}"
+                },
+                {
+                  "title": "Bugcrowd",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bugcrowd.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":15},\"to\":{\"line\":0,\"ch\":15}}}"
+                },
+                {
+                  "title": "Bounty Programs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bounty Programs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":11},\"to\":{\"line\":8,\"ch\":11}}}"
+                },
+                {
+                  "title": "OpenBugBounty.org",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"OpenBugBounty.org.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":13}}}"
+                },
+                {
+                  "title": "Bounty Programs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bounty Programs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":13}}}"
+                },
+                {
+                  "title": "Get a Job",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Get a Job.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":13},\"to\":{\"line\":2,\"ch\":13}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jarvis AI/🔧 Strategy Modules/Stark Alpha Strategy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Stark Alpha Strategy"
+            }
+          },
+          {
+            "id": "52baf9369cddd88d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
+            "id": "6e0903655ade33ca",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Apple bug bounty",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Apple bug bounty.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Apple bug bounty\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cryptography Pre Assessment",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cryptography Pre Assessment.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cryptography Pre Assessment\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "SQL Attack Vector",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQL Attack Vector.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":37},\"to\":{\"line\":10,\"ch\":37}},\"scroll\":5.907235621521336}"
+                },
+                {
+                  "title": "SQL injection UNION attack, finding a column containing text",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQL injection UNION attack, finding a column containing text.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":13}}}"
+                },
+                {
+                  "title": "SQL Attack Vector",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQL Attack Vector.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":16},\"to\":{\"line\":7,\"ch\":16}}}"
+                },
+                {
+                  "title": "SQL injection vulnerability allowing login bypass",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQL injection vulnerability allowing login bypass.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":11},\"to\":{\"line\":0,\"ch\":11}}}"
+                },
+                {
+                  "title": "SQL Attack Vector",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQL Attack Vector.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":4},\"to\":{\"line\":4,\"ch\":4}}}"
+                },
+                {
+                  "title": "SQL injection vulnerability allowing login bypass",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQL injection vulnerability allowing login bypass.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":17},\"to\":{\"line\":0,\"ch\":17}}}"
+                },
+                {
+                  "title": "SQL Attack Vector",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SQL Attack Vector.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":35},\"to\":{\"line\":4,\"ch\":35}}}"
+                },
+                {
+                  "title": "Penetration Attack Vectors",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Penetration Attack Vectors.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":19},\"to\":{\"line\":1,\"ch\":19}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AES.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "AES"
+            }
+          },
+          {
+            "id": "58817132e44bc3af",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "432343e04930a1fc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Machine Writeups",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Machine Writeups.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Machine Writeups\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bike Machine HTB",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bike Machine HTB.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bike Machine HTB\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":9},\"to\":{\"line\":0,\"ch\":9}}}"
+                },
+                {
+                  "title": "Release Notes 1.7.7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.7.7\"},\"icon\":\"lucide-file\",\"title\":\"Release Notes 1.7.7\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1b8a1a22f03aebcc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Daily Habits",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Daily Habits.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":7},\"to\":{\"line\":3,\"ch\":7}}}"
+                },
+                {
+                  "title": "Daily Affirmations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Daily Affirmations.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "Daily Habits",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Daily Habits.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":18},\"to\":{\"line\":2,\"ch\":18}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Goals"
+            }
+          },
+          {
+            "id": "60999163dec0a33b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "99a4e019c3d4188b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "SIR",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SIR.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"SIR\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":9},\"to\":{\"line\":3,\"ch\":9}}}"
+                },
+                {
+                  "title": "ICS Fundamentals",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ICS Fundamentals.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"ICS Fundamentals\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":7},\"to\":{\"line\":3,\"ch\":7}}}"
+                },
+                {
+                  "title": "BEDS-M",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BEDS-M.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"BEDS-M\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":13}}}"
+                },
+                {
+                  "title": "ICS Fundamentals",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ICS Fundamentals.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"ICS Fundamentals\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":7},\"to\":{\"line\":2,\"ch\":7}}}"
+                },
+                {
+                  "title": "SIR",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SIR.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"SIR\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":10},\"to\":{\"line\":0,\"ch\":10}}}"
+                },
+                {
+                  "title": "Interleaving",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Interleaving.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Interleaving\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":6},\"to\":{\"line\":0,\"ch\":6}},\"scroll\":0}"
+                },
+                {
+                  "title": "SIR",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SIR.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"SIR\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":12},\"to\":{\"line\":3,\"ch\":12}}}"
+                },
+                {
+                  "title": "Spacing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spacing.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Spacing\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":8},\"to\":{\"line\":0,\"ch\":8}}}"
+                },
+                {
+                  "title": "SIR",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SIR.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"SIR\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":10},\"to\":{\"line\":2,\"ch\":10}}}"
+                },
+                {
+                  "title": "Retrieval",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Retrieval.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Retrieval\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":7},\"to\":{\"line\":0,\"ch\":7}}}"
+                },
+                {
+                  "title": "SIR",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SIR.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"SIR\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":11},\"to\":{\"line\":4,\"ch\":11}}}"
+                },
+                {
+                  "title": "Retrieval",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Retrieval.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Retrieval\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":8},\"to\":{\"line\":0,\"ch\":8}}}"
+                },
+                {
+                  "title": "SIR",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SIR.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"SIR\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":11},\"to\":{\"line\":4,\"ch\":11}}}"
+                },
+                {
+                  "title": "Retrieval",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Retrieval.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Retrieval\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":7},\"to\":{\"line\":0,\"ch\":7}}}"
+                },
+                {
+                  "title": "SIR",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SIR.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"SIR\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":11},\"to\":{\"line\":4,\"ch\":11}}}"
+                },
+                {
+                  "title": "Spacing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spacing.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Spacing\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":4},\"to\":{\"line\":0,\"ch\":4}},\"scroll\":0}"
+                },
+                {
+                  "title": "SIR",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SIR.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"SIR\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":9},\"to\":{\"line\":2,\"ch\":9}}}"
+                },
+                {
+                  "title": "Interleaving",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Interleaving.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Interleaving\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":6},\"to\":{\"line\":0,\"ch\":7}},\"scroll\":0}"
+                },
+                {
+                  "title": "SIR",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SIR.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"SIR\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":12},\"to\":{\"line\":3,\"ch\":11}}}"
+                },
+                {
+                  "title": "ICS Fundamentals",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ICS Fundamentals.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"ICS Fundamentals\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":6},\"to\":{\"line\":3,\"ch\":6}}}"
+                },
+                {
+                  "title": "BEDS-M",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BEDS-M.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"BEDS-M\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":13}}}"
+                },
+                {
+                  "title": "ICS Fundamentals",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ICS Fundamentals.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"ICS Fundamentals\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":9},\"to\":{\"line\":2,\"ch\":9}}}"
+                },
+                {
+                  "title": "I Can Study",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"I Can Study.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"I Can Study\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":15},\"to\":{\"line\":1,\"ch\":15}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interleaving.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Interleaving"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440b3841429709ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b208c03cadd231ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddbab8b18fd423a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "77966b04a7f238ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "31b3e2576b134863",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "e4dbe7bde154a8ce",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 415.5
+  },
+  "right": {
+    "id": "7a43a6c530e72e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea89fdbc5439f479",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f6e4ddebde66a86",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4fd5ddab0d74cf4f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Google Dorks.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5168584698559424,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Google Dorks"
+            }
+          },
+          {
+            "id": "90d026528dc7103b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Google Dorks.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Google Dorks"
+            }
+          },
+          {
+            "id": "1dc0cb1cebc39098",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cc261747cbab30f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d535bd36dbc98e0b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Jarvis AI/🔧 Strategy Modules/Stark Alpha Strategy.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Stark Alpha Strategy"
+            }
+          },
+          {
+            "id": "6321f478b28fa615",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Google Dorks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Google Dorks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5028076171875
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "257a72ca2b70e59e",
+  "lastOpenFiles": [
+    "Jarvis AI/🧠 Memory & Philosophy/Jarvis lite instructions.md",
+    "Jarvis AI/🧠 Memory & Philosophy/Personality Primer Personal.md",
+    "Jarvis AI/🧠 Memory & Philosophy/Personality Primer Professional.md",
+    "Jarvis AI/🧠 Memory & Philosophy",
+    "Jarvis AI/🔧 Strategy Modules/Stark Alpha Strategy.md",
+    "Jarvis AI/🔧 Strategy Modules/Prospectus v1.md",
+    "Jarvis AI/🔧 Strategy Modules/Overview.md",
+    "Jarvis AI/🔧 Strategy Modules",
+    "Jarvis AI/Jarvis Memory Snapshot.md",
+    "Extras/Images/Pasted image 20250327152323.png",
+    "Spacing.md",
+    "SIR.md",
+    "Retrieval.md",
+    "Jarvis AI/README.md.md",
+    "Interleaving.md",
+    "ICS Fundamentals.md",
+    "I Can Study.md",
+    "I Can Study.canvas",
+    "Extras/Images/Pasted image 20250304094430.png",
+    "Extras/Images/Pasted image 20250304094343.png",
+    "Extras/Images/Pasted image 20250304094309.png",
+    "Extras/Images/Pasted image 20250304094227.png",
+    "Extras/Images/Pasted image 20250304094116.png",
+    "Extras/Images/Pasted image 20250304094059.png",
+    "Extras/Images/Pasted image 20250304094041.png",
+    "Extras/Images/Pasted image 20250304094024.png",
+    "Extras/Images/Pasted image 20250304034701.png",
+    "Calendar/2022/2025-03-04.md",
+    "Calendar/2022",
+    "Calendar",
+    "BEDS-M.md",
+    "Ping.md",
+    "Ping Sweeps.md",
+    "Port Scanning.md",
+    "Port Scanning with Nmap.md",
+    "OSI Model.md",
+    "Network Mapping.md",
+    "Host Discovery with Nmap.md",
+    "Host Discovery Techniques.md",
+    "Footprinting & Scanning.md",
+    "Leaked Password Databases.md",
+    "Extras/Images",
+    "Extras",
+    "Bug Hunters Methodology v4.canvas",
+    "Jarvis AI/📑 Execution Scripts",
+    "Jarvis AI/📆 Market Logs",
+    "Jarvis AI/📊 Backtest Results",
+    "Jarvis AI",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
